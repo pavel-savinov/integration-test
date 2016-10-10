@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module relativePaths="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true" LANGUAGE_LEVEL="JDK_1_7">
+    <exclude-output/>
+    <orderEntry type="inheritedJdk"/>
+    <content url="file://$MODULE_DIR$/">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false"/>
+      <excludeFolder url="file://$MODULE_DIR$/build"/>
+      <excludeFolder url="file://$MODULE_DIR$/.gradle"/>
+      <excludeFolder url="file://$MODULE_DIR$/classes"/>
+    </content>
+    <orderEntry type="sourceFolder" forTests="false"/>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/pavelsavinov/Projects/Liferay/liferay-portal_master/.gradle/caches/modules-2/files-2.1/biz.aQute.bnd/biz.aQute.bndlib/3.1.0/8e45564ca80bf089276a35f916e8702e7b798cbb/biz.aQute.bndlib-3.1.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/pavelsavinov/Projects/Liferay/liferay-portal_master/.gradle/caches/modules-2/files-2.1/biz.aQute.bnd/biz.aQute.bndlib/3.1.0/58ab3de3dac4f7cfd835a711158d8ef7dfa2b872/biz.aQute.bndlib-3.1.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/pavelsavinov/Projects/Liferay/liferay-portal_master/.gradle/caches/modules-2/files-2.1/com.liferay/com.liferay.osgi.util/3.0.0/767e00ee82a0366b84238001a1aa74e490d61b57/com.liferay.osgi.util-3.0.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/pavelsavinov/Projects/Liferay/liferay-portal_master/.gradle/caches/modules-2/files-2.1/com.liferay/com.liferay.osgi.util/3.0.0/8f551c8cf19bd924455378a2d9180ca8f5abe970/com.liferay.osgi.util-3.0.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/pavelsavinov/Projects/Liferay/liferay-portal_master/.gradle/caches/modules-2/files-2.1/com.liferay.portal/com.liferay.portal.impl/2.0.0/f4446352654136205deaa0e4b1a854fd9eaeca78/com.liferay.portal.impl-2.0.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/pavelsavinov/Projects/Liferay/liferay-portal_master/.gradle/caches/modules-2/files-2.1/com.liferay.portal/com.liferay.portal.impl/2.0.0/9e4662940eff1b396499ae200ed248fd2c6bbc34/com.liferay.portal.impl-2.0.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/pavelsavinov/Projects/Liferay/liferay-portal_master/.gradle/caches/modules-2/files-2.1/com.liferay.portal/com.liferay.portal.kernel/2.0.0/2b7c4bb22f87dcf60ccf05d45c972f3944b8e447/com.liferay.portal.kernel-2.0.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/pavelsavinov/Projects/Liferay/liferay-portal_master/.gradle/caches/modules-2/files-2.1/com.liferay.portal/com.liferay.portal.kernel/2.0.0/5f91fc8c20afc9b5da91f0b8fd4faf7e2977591f/com.liferay.portal.kernel-2.0.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/pavelsavinov/Projects/Liferay/liferay-portal_master/.gradle/caches/modules-2/files-2.1/javax.portlet/portlet-api/2.0/1cd72f2a37fcf8ab9893a9468d7ba71c85fe2653/portlet-api-2.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/pavelsavinov/Projects/Liferay/liferay-portal_master/.gradle/caches/modules-2/files-2.1/javax.portlet/portlet-api/2.0/aa3977c82050c29bb3577fc98c428d61ec187503/portlet-api-2.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/pavelsavinov/Projects/Liferay/liferay-portal_master/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.0.1/6bf0ebb7efd993e222fc1112377b5e92a13b38dd/javax.servlet-api-3.0.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/pavelsavinov/Projects/Liferay/liferay-portal_master/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.0.1/1952f91d84016a39e31346c9d18bd8c9c4a128a/javax.servlet-api-3.0.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/pavelsavinov/Projects/Liferay/liferay-portal_master/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.core/5.0.0/6e5e8cd3c9059c08e1085540442a490b59a7783c/org.osgi.core-5.0.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/pavelsavinov/Projects/Liferay/liferay-portal_master/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.core/5.0.0/49a8f6d5428650ce3ad56bb365a98c6c88f62886/org.osgi.core-5.0.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/pavelsavinov/Projects/Liferay/liferay-portal_master/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.service.component.annotations/1.3.0/ef17ec0e7f73cd144599da108d72a24285d1f5d5/org.osgi.service.component.annotations-1.3.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/pavelsavinov/Projects/Liferay/liferay-portal_master/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.service.component.annotations/1.3.0/987e7f0748a883a66952dc6cc5fefd6e97ab7f84/org.osgi.service.component.annotations-1.3.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+  <component name="ModuleRootManager"/>
+</module>

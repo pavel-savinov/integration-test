@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.7">
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-service/src/main/java/com/liferay/campaign/manager/model/impl/CampaignBaseImpl.java">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-service/src/main/java/com/liferay/campaign/manager/model/impl/CampaignCacheModel.java">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-service/src/main/java/com/liferay/campaign/manager/model/impl/CampaignImpl.java">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-service/src/main/java/com/liferay/campaign/manager/model/impl/CampaignLocalizationBaseImpl.java">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-service/src/main/java/com/liferay/campaign/manager/model/impl/CampaignLocalizationCacheModel.java">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-service/src/main/java/com/liferay/campaign/manager/model/impl/CampaignLocalizationImpl.java">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-service/src/main/java/com/liferay/campaign/manager/model/impl/CampaignLocalizationModelImpl.java">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-service/src/main/java/com/liferay/campaign/manager/model/impl/CampaignModelImpl.java">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-service/src/main/java/com/liferay/campaign/manager/service/base/CampaignLocalServiceBaseImpl.java">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-service/src/main/java/com/liferay/campaign/manager/service/impl/CampaignLocalServiceImpl.java">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-service/src/main/java/com/liferay/campaign/manager/service/persistence/impl/CampaignLocalizationPersistenceImpl.java">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-service/src/main/java/com/liferay/campaign/manager/service/persistence/impl/CampaignPersistenceImpl.java">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-service/src/main/java/com/liferay/campaign/manager/service/util/ServiceProps.java">
+<error line="25" severity="error" message="Javadoc has empty description section." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-service/src/main/resources/META-INF/module-hbm.xml">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-service/src/main/resources/META-INF/portlet-model-hints.xml">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-service/src/main/resources/META-INF/spring/module-spring.xml">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-service/src/main/resources/META-INF/sql/indexes.sql">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-service/src/main/resources/META-INF/sql/sequences.sql">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-service/src/main/resources/META-INF/sql/tables.sql">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-service/src/main/resources/service.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-api/src/main/java/com/liferay/campaign/manager/exception/InvalidDateRangeException.java">
+<error line="21" severity="error" message="Javadoc has empty description section." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-api/src/main/java/com/liferay/campaign/manager/exception/NoSuchCampaignException.java">
+<error line="21" severity="error" message="Javadoc has empty description section." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-api/src/main/java/com/liferay/campaign/manager/exception/NoSuchCampaignLocalizationException.java">
+<error line="21" severity="error" message="Javadoc has empty description section." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-api/src/main/java/com/liferay/campaign/manager/model/Campaign.java">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-api/src/main/java/com/liferay/campaign/manager/model/CampaignLocalization.java">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-api/src/main/java/com/liferay/campaign/manager/model/CampaignLocalizationModel.java">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-api/src/main/java/com/liferay/campaign/manager/model/CampaignLocalizationSoap.java">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-api/src/main/java/com/liferay/campaign/manager/model/CampaignLocalizationWrapper.java">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-api/src/main/java/com/liferay/campaign/manager/model/CampaignModel.java">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-api/src/main/java/com/liferay/campaign/manager/model/CampaignSoap.java">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-api/src/main/java/com/liferay/campaign/manager/model/CampaignWrapper.java">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-api/src/main/java/com/liferay/campaign/manager/service/CampaignLocalService.java">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-api/src/main/java/com/liferay/campaign/manager/service/CampaignLocalServiceUtil.java">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-api/src/main/java/com/liferay/campaign/manager/service/CampaignLocalServiceWrapper.java">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-api/src/main/java/com/liferay/campaign/manager/service/persistence/CampaignLocalizationPersistence.java">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-api/src/main/java/com/liferay/campaign/manager/service/persistence/CampaignLocalizationUtil.java">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-api/src/main/java/com/liferay/campaign/manager/service/persistence/CampaignPersistence.java">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-api/src/main/java/com/liferay/campaign/manager/service/persistence/CampaignUtil.java">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-api/src/main/java/com/liferay/campaign/manager/util/CampaignStatus.java">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/java/com/liferay/campaign/manager/web/internal/application/list/CampaignManagerPanelApp.java">
+<error line="26" severity="error" message="Javadoc has empty description section." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/java/com/liferay/campaign/manager/web/internal/constants/CampaignManagerPortletKeys.java">
+<error line="17" severity="error" message="Javadoc has empty description section." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/java/com/liferay/campaign/manager/web/internal/display/context/CampaignManagerDisplayContext.java">
+<error line="48" severity="error" message="Javadoc has empty description section." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/java/com/liferay/campaign/manager/web/internal/portlet/CampaignManagerPortlet.java">
+<error line="24" severity="error" message="Javadoc has empty description section." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/java/com/liferay/campaign/manager/web/internal/portlet/action/CopyCampaignMVCRenderCommand.java">
+<error line="39" severity="error" message="Javadoc has empty description section." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/java/com/liferay/campaign/manager/web/internal/portlet/action/DeleteCampaignMVCActionCommand.java">
+<error line="29" severity="error" message="Javadoc has empty description section." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/java/com/liferay/campaign/manager/web/internal/portlet/action/EditCampaignMVCActionCommand.java">
+<error line="48" severity="error" message="Javadoc has empty description section." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/java/com/liferay/campaign/manager/web/internal/portlet/action/EditCampaignMVCRenderCommand.java">
+<error line="30" severity="error" message="Javadoc has empty description section." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/java/com/liferay/campaign/manager/web/internal/portlet/action/PauseCampaignMVCActionCommand.java">
+<error line="30" severity="error" message="Javadoc has empty description section." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/java/com/liferay/campaign/manager/web/internal/portlet/action/ResumeCampaignMVCActionCommand.java">
+<error line="30" severity="error" message="Javadoc has empty description section." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/META-INF/resources/add_button.jsp">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/META-INF/resources/campaign_action.jsp">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/META-INF/resources/campaign_toolbar.jsp">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/META-INF/resources/edit_campaign.jsp">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/META-INF/resources/init-ext.jsp">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/META-INF/resources/init.jsp">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/META-INF/resources/view.jsp">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/META-INF/resources/view_campaigns.jsp">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_ar.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_bg.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_ca.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_cs.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_da.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_de.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_el.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_en.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_es.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_et.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_eu.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_fa.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_fi.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_fr.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_gl.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_hi_IN.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_hr.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_hu.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_in.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_it.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_iw.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_ja.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_ko.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_lo.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_lt.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_nb.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_nl.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_nl_BE.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_pl.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_pt_BR.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_pt_PT.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_ro.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_ru.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_sk.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_sl.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_sr_RS.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_sr_RS_latin.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_sv.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_th.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_tr.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_uk.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_vi.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_zh_CN.properties">
+</file>
+<file name="/Users/pavelsavinov/Projects/Liferay/liferay-portal_master/modules/apps/com-liferay-campaign-manager/campaign-manager-web/src/main/resources/content/Language_zh_TW.properties">
+</file>
+</checkstyle>
